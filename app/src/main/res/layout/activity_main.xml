@@ -11,7 +11,12 @@
     tools:context="org.cba.im_seminar.MainActivity">
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bum-Soo Kim~!!" />
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="기도제목 \u0026 메모"
+        android:textSize="36sp"
+        android:textStyle="bold" />
 </RelativeLayout>
