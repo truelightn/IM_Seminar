@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IM_Seminar</string>
+    <string name="app_title">기도제목 &amp; 메모</string>
+    <string name="app_sub1_title">오늘의 QT</string>
+    <string name="app_sub1_button">은혜 받은 말씀 보기</string>
+    <string name="app_sub1_txt">QT를 해주세요</string>
+    <string name="app_sub2_title">기도제목</string>
+    <string name="app_sub2_memo">하나님 이쁘게 해주세요</string>
+    <string name="app_sub2_txt">내용을 입력해주세요</string>
+    <string name="app_sub2_button">추가</string>
+    <string name="app_botton">Copyright 2017 by IM. All Rights Reserved</string>
 </resources>
