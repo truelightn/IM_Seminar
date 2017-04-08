@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">IM_Seminar</string>
+    <string name="app_title">기도 말씀 &amp; 메모</string>
+    <string name="qt">오늘의 QT</string>
+    <string name="today">은혜 받은 말씀 보기</string>
+    <string name="doing_qt">QT를 해주세요</string>
+    <string name="pray_name">기도제목</string>
+    <string name="add">추가</string>
+    <string name="please_putty">하나님 이쁘게 해주세요</string>
+
 </resources>
