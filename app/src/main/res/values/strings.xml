@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IM_Seminar</string>
+    <string name="app_title">기도제목 &amp; 메모</string>
+    <string name="today_qt">오늘의 QT</string>
+    <string name="pray_name">기도제목</string>
 </resources>
